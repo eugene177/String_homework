@@ -19,4 +19,21 @@
 
 
 
-// Задача №4.
+// // Задача №4.
+// let text = 'Фрилансер'
+// console.log(text.toUpperCase())
+
+
+
+// // Задача №5.
+// let text = 'Фрилансер'
+// console.log(text.slice(3, 6))
+
+
+
+// Задача №6.
+let text = 'Фрилансер'
+console.log(text.includes('лан', 3))
+
+
+

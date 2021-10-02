@@ -4,6 +4,7 @@
 // console.log(numOne)
 
 
+
 // // Задача №2.
 // let value = "135.58px"
 // console.log(parseFloat(value))
